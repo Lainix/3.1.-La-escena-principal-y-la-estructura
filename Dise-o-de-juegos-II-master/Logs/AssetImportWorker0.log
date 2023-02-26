@@ -88,3 +88,4 @@ Received Import Request.
 Start importing Assets/scripts/ChangeWeb.cs using Guid(48df34803b202fe4bb609a0cddfbbae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5c29857e47e870393414f760d040219') in 0.005861 seconds
   Import took 0.011162 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
